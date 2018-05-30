@@ -1,0 +1,14 @@
+.page {
+  margin: 0rpx 50rpx 50rpx 50rpx;
+}
+
+.top{
+  text-align: center;
+  color: red;
+}
+.item {
+  margin: 25rpx 0rpx 25rpx 0rpx;
+  background-color: lightblue; 
+  font-size: 50rpx;
+}
+
